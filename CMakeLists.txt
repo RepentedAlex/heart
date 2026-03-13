@@ -10,6 +10,7 @@ target_sources(heart
     src/main.c
     src/ast.c
     src/cli_options.c
+    src/graphics.c
     src/utils.c
 )
 
